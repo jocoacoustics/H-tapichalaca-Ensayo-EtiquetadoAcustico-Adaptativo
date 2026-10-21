@@ -1,0 +1,54 @@
+{
+  "release": "0.3.2",
+  "pages": {
+    "short": "index.html",
+    "long": "long.html"
+  },
+  "audio": {
+    "audio_slice.wav": "assets/audio/audio_slice.mp3",
+    "cc046A-QCAZ16704.mp3": "assets/audio/bioweb_tapichalaca.mp3",
+    "CHAGW101_20260828_020000.wav": "assets/audio/CHAGW101_20260828_020000.mp3"
+  },
+  "files": {
+    ".nojekyll": {
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "README_PUBLICAR.md": {
+      "size": 1193,
+      "sha256": "145661de4f857812887a99fb0a335cafad48717f58b0459a50371b148d0bb235"
+    },
+    "assets/audio/CHAGW101_20260828_020000.mp3": {
+      "size": 28320621,
+      "sha256": "b2e834a6a31867ed84d8a2d28859fc6d0e919078777e232e731fd640498c2bd1"
+    },
+    "assets/audio/CHAGW101_20260828_020000.mp3.source.json": {
+      "size": 85,
+      "sha256": "8c17be8b4e2d9068df500b4a526770b046e7ced53cfc3ab097dd6482e5403bde"
+    },
+    "assets/audio/audio_slice.mp3": {
+      "size": 40749,
+      "sha256": "151f150dcf5fd31348bbf8e556f16b98a73e1783d615e5150f510b6a1aba671e"
+    },
+    "assets/audio/audio_slice.mp3.source.json": {
+      "size": 82,
+      "sha256": "0b4167b6bbaeab14858a68c46302cd81f779c5c9242fe9a8d9d2eee32215b989"
+    },
+    "assets/audio/bioweb_tapichalaca.mp3": {
+      "size": 99784,
+      "sha256": "1d11396c58ca3b808bd18c1e19d9e90f9196c9bbdb6bdb0ff8cbde0413605644"
+    },
+    "assets/audio/bioweb_tapichalaca.mp3.source.json": {
+      "size": 82,
+      "sha256": "1eb2633aa578d138f59715d1b04322a0a292531764d8d7e0ea42587bac131458"
+    },
+    "index.html": {
+      "size": 5990997,
+      "sha256": "863d2f593f1222e0522d6a9833a94cc117e632f9ee3d5ec73d83a4321021925e"
+    },
+    "long.html": {
+      "size": 44060365,
+      "sha256": "5c0bc51d9c13fafb1b1cd7d66bb008bdd2172e2e35228e8d3698bb8f0dfbc50e"
+    }
+  }
+}
